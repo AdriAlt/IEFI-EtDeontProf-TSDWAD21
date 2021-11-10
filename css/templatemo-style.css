@@ -18,8 +18,8 @@ ul {
 }
 
 p {
-  font-size: 13px;
-  color: #7a7a7a;
+  font-size: 1em;
+  color: #000;
   line-height: 24px;
   left: 0.25px;
 }
@@ -71,7 +71,7 @@ section {
 
 /* Header Style */
 
-.cf:before, 
+.cf:before,
 .cf:after {
   content: '';
   display: table;
@@ -608,7 +608,6 @@ section.sobre-nosotros {
 .sobre-nosotros .featured-item .down-content span {
   display: block;
   font-size: 13px;
-  color: #4883ff;
   margin-bottom: 15px;
 }
 
@@ -1019,7 +1018,7 @@ section.contact .section-heading {
   width: 60%;
   margin: 0 auto;
   background-color: #fff;
-  
+
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
 }
 .modal-animated-in {
@@ -1058,7 +1057,7 @@ section.contact .section-heading {
   100% {
     top: 0;
     opacity: 1;
-  }  
+  }
 }
 
 @keyframes totop-out {
@@ -1069,7 +1068,7 @@ section.contact .section-heading {
   100% {
     top: -100%;
     opacity: 0;
-  }  
+  }
 }
 
 
@@ -1171,12 +1170,12 @@ footer .contact-info ul li a {
   margin-bottom: 0px;
   padding: 30px 0px;
   font-size: 15px;
-  color: #aaaaaa;
+  color: #000;
 }
 
 .sub-footer a {
   text-decoration: none;
-  color: #4883ff;
+  /*color: #4883ff;*/
 }
 
 
@@ -1241,5 +1240,5 @@ footer .contact-info ul li a {
   footer .contact-info {
     margin-top: 60px;
   }
-  
+
 }
