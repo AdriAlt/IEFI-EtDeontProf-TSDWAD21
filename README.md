@@ -40,3 +40,5 @@ https://adrialt.github.io/IEFI-EtDeontProf-TSDWAD21/
 
 - Se agregó etiqueta de idioma a la página.
 	
+###  Carpeta Accesibilidad:
+Detallamos en un word las imagenes de los errores encontrados.
